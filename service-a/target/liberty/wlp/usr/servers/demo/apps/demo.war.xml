@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="${io.openliberty.tools.projectRoot}/src/main/webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="${io.openliberty.tools.projectRoot}/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209824468851/jaeger-client-0.34.0.jar" targetInArchive="/WEB-INF/lib/jaeger-client-0.34.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209830359248/jaeger-thrift-0.34.0.jar" targetInArchive="/WEB-INF/lib/jaeger-thrift-0.34.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209835761221/slf4j-api-1.7.25.jar" targetInArchive="/WEB-INF/lib/slf4j-api-1.7.25.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209837099431/libthrift-0.12.0.jar" targetInArchive="/WEB-INF/lib/libthrift-0.12.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209839519429/okhttp-3.9.0.jar" targetInArchive="/WEB-INF/lib/okhttp-3.9.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209841971459/okio-1.13.0.jar" targetInArchive="/WEB-INF/lib/okio-1.13.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209843105479/jaeger-core-0.34.0.jar" targetInArchive="/WEB-INF/lib/jaeger-core-0.34.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209844552649/opentracing-api-0.31.0.jar" targetInArchive="/WEB-INF/lib/opentracing-api-0.31.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209845917885/opentracing-util-0.31.0.jar" targetInArchive="/WEB-INF/lib/opentracing-util-0.31.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209846919277/opentracing-noop-0.31.0.jar" targetInArchive="/WEB-INF/lib/opentracing-noop-0.31.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209847974450/gson-2.8.2.jar" targetInArchive="/WEB-INF/lib/gson-2.8.2.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209849602433/jaeger-tracerresolver-0.34.0.jar" targetInArchive="/WEB-INF/lib/jaeger-tracerresolver-0.34.0.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/libs/154209850287016/opentracing-tracerresolver-0.1.5.jar" targetInArchive="/WEB-INF/lib/opentracing-tracerresolver-0.1.5.jar"/>
+    <file sourceOnDisk="${io.openliberty.tools.projectRoot}/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
